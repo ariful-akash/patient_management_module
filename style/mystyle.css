@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 30, 2017, 9:18:50 PM
+    Author     : ariful
+*/
+.container {
+
+    padding: 5px 10px 5px 10px;
+}
+
+.navbar {
+    width: 100%;
+    height: 50px;
+}
+.nev-left{
+    float: left;
+    margin-top:10px;
+}
+.nev-img{
+    float: left;
+}
+.navbar-menu {
+    float: right;
+    margin-top: 10px;
+}
+
+.menu-item {
+    margin: 10px 20px 0px 0px;
+
+}

@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         } else {
             session_start();
             $_SESSION['akash'] = $u;
-            header("Location:home.php");
+            header("Location:patient.php");
         }
     }
 }
